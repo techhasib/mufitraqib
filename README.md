@@ -1,1 +1,1 @@
-# live website - https://techhasib.github.io/muftiraqib
+# live website - techhasib.github.io/mufitraqib/
